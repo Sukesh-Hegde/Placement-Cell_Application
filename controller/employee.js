@@ -96,8 +96,6 @@ module.exports.createSession = async function (req, res) {
     } catch (error) {
         return res.send("<h1>Error in SignUp</h1>");
     }
-
-
 }
 
 // to sign out
