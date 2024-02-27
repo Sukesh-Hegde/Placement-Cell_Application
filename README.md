@@ -21,7 +21,7 @@ This is interface for the employees  to fill in the data into the database and t
 for this objective user can download the repository from git and then extract the folder and then type npm start command to run this .
 <!-- 
 ## Take A look :
-This Project is hosted live at [Link](https://.com/)
-Git Hub [Link](https://github.com/ ) -->
+
+Git Hub [Link]([https://github.com/](https://github.com/Sukesh-Hegde/Placement-Cell_Application) ) -->
 
 ![Screenshot 2024-02-27 at 12 01 07 PM](https://github.com/Sukesh-Hegde/Placement-Cell_Application/assets/128299015/daa01c22-8a76-46b7-9c58-0c986add9048)
